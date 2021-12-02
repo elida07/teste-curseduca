@@ -9,6 +9,9 @@
     "migrations": "tsnd ./src/data/migrations.ts",
     "postinstall": "tsc"
   },
+  "engines": {
+    "node": "v14.17.4"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
